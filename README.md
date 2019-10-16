@@ -16,9 +16,19 @@ Please download project_java and queries folder.
 
 ##  How to Run
 
-1) Create a database named hw2DB.
-2) Open queries folder.
-3) To be completed
+1) Create a database named hw2DB
+2) Open queries folder
+3) Execute hw2Q.sql, funciton.sql, function2.sql, add_constraint.sql
+4) Open project_java folder and copy its contents to your src
+5) Now you can test with your sample data 
+
+## Authors
+
+Cenker Karaors
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
 
